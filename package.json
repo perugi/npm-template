@@ -1,21 +1,21 @@
 {
-  "name": "npm-template",
+  "name": "@perugi/npm-template",
   "version": "1.0.0",
-  "description": "A template repo for modules, published on npm, with basic setup development dependencies installed.",
+  "description": "CHANGEME",
   "main": "package.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/perugi/npm-template.git"
+    "url": "git+https://github.com/perugi/CHANGEME.git"
   },
   "author": "Dominik Perusko",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/perugi/npm-template/issues"
+    "url": "https://github.com/perugi/CHANGEME/issues"
   },
-  "homepage": "https://github.com/perugi/npm-template#readme",
+  "homepage": "https://github.com/perugi/CHANGEME#readme",
   "devDependencies": {
     "@perugi/eslint-config": "^1.0.3",
     "@perugi/prettier-config": "^1.0.2",
